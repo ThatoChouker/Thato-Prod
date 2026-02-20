@@ -68,36 +68,11 @@ CREATE INDEX idx_msisdn_temp ON CUSTOMER_CONSENT_LIST_UPLOAD(MSISDN);
 EVA user: su_is_azurede_prd 
 
 
-OracleApex#22
-@ThinkLikeMe01
-
-#P@ssword@That091
-remedy ticket 5170829 rusell 
-oupapa@Victor01
-@Masilela08
-
-r:D"Pa7ihnZuCcM
-
-!SibuyiNtivo@25
-
-OrybM0$E425$N
-
 RETURN REGEXP_LIKE(:PERIOD, '^[0-9]{4}(0[1-9]|1[0-2])$');
 
 Please enter a valid YYYYMM format (e.g. 202501).
 
 'MOMO_Summaries-DIM_TRANSACTING_CHANNEL','MOMO_SUMMARIES-MOMO_AGENT_BASE_DD' 
 
-Summary of Registration Details
-User name:thato@oratel.co.za
-First Name:Charles
-Last Name:Siwele
-Date of Birth:1997-11-16
-Gender:M
-Email:thato@oratel.co.za
-Please note that your username is your email.
-You will need to remember this for when you next log in.
-Remember to keep your password safe.
 
-changes
 
